@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lombok-with-mapstruct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quartz-demo-spring-boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quartz-demo-spring-boot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quartz-demo-spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quartz-demo-spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-1/rpc-client-bio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-1/rpc-common-bio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-1/rpc-server-bio/rpc-server-bio-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-1/rpc-server-bio/rpc-server-bio-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-2/rpc-client-nio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-2/rpc-common-nio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-2/rpc-server-nio/rpc-server-nio-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-2/rpc-server-nio/rpc-server-nio-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-3/rpc-client-aio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-3/rpc-common-aio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-3/rpc-server-aio/rpc-server-aio-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-demo-3/rpc-server-aio/rpc-server-aio-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/strategy-design-pattern-in-spring/src/main/java" charset="UTF-8" />
+  </component>
+</project>

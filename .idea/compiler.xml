@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rpc-server-nio-provider" />
+        <module name="rpc-server-bio-provider" />
+        <module name="rpc-common-aio" />
+        <module name="rpc-common-bio" />
+        <module name="rpc-server-aio-api" />
+        <module name="rpc-client-aio" />
+        <module name="rpc-client-bio" />
+        <module name="rpc-server-nio-api" />
+        <module name="rpc-server-aio-provider" />
+        <module name="quartz-demo-spring" />
+        <module name="quartz-demo-spring-boot" />
+        <module name="strategy-design-pattern-in-spring" />
+        <module name="rpc-server-bio-api" />
+        <module name="rpc-client-nio" />
+        <module name="rpc-common-nio" />
+      </profile>
+      <profile name="Annotation profile for practice_demo" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.4.2.Final/mapstruct-processor-1.4.2.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.4.2.Final/mapstruct-1.4.2.Final.jar" />
+        </processorPath>
+        <module name="lombok-with-mapstruct" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
