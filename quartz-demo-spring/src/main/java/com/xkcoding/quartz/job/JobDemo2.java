@@ -22,6 +22,6 @@ public class JobDemo2 implements Job {
 
     @Override
     public void execute(JobExecutionContext jobExecutionContext) throws JobExecutionException {
-        //demoService.echo("JobDemo2");
+        System.out.println("我是任务2");
     }
 }

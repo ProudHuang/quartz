@@ -1,6 +1,6 @@
 package com.xkcoding.quartz.service;
 
-import com.xkcoding.quartz.autoconfiguration.JobParamter;
+import com.xkcoding.quartz.form.JobParamter;
 import com.xkcoding.quartz.autoconfiguration.ScheduleManager;
 import com.xkcoding.quartz.job.JobDemo3;
 import lombok.extern.slf4j.Slf4j;
@@ -33,7 +33,7 @@ public class DemoService {
         jobParamter.setJobName("task3");
         jobParamter.setStartTime(new Date());
         jobParamter.setEndTtime(new Date());
-        jobParamter.setTimes(1);
+        jobParamter.setTimes(10);
         scheduleManager.start(jobParamter, JobDemo3.class);
     }
 }

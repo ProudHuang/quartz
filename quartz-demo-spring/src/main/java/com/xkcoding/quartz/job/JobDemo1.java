@@ -20,7 +20,7 @@ public class JobDemo1 implements Job {
 
     @Override
     public void execute(JobExecutionContext jobExecutionContext) throws JobExecutionException {
-        DemoService demoService = SpringUtil.getBean(DemoService.class);
-        //demoService.echo("JobDemo1");
+        //DemoService demoService = SpringUtil.getBean(DemoService.class);
+        System.out.println("我是任务1");
     }
 }

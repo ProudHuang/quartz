@@ -1,4 +1,4 @@
-package com.xkcoding.quartz.autoconfiguration;
+package com.xkcoding.quartz.form;
 
 import lombok.Getter;
 import lombok.Setter;
